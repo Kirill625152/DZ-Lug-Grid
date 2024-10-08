@@ -1,0 +1,490 @@
+.header { 
+    border-bottom: 2px solid #7a7a7a;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 80px;
+}
+
+
+.obratna {
+    padding: 20px 0 0 400px;
+}
+
+
+.sini {
+    width: 500px;
+}
+
+
+.lug {
+    font-size: 28px;
+    color: #45536D;
+    font-weight: 700;
+    font-family: "Roboto";
+    padding: 10px 30px 0 0;    
+}
+
+
+.header-wrapper {
+    display: flex;
+    max-width:none;
+    margin: 0 auto;
+    padding: 35px 0;
+}
+
+
+.header-list-sin {
+    font-size: 28px;
+    color: #45536D;
+    font-weight: 700;
+    font-family: "Roboto";
+    padding: 10px 30px 0 0;
+}
+
+
+.header-list-kur {
+    font-size: 18px;
+    color: #45536D;
+    font-weight: lighter;
+    font-family: "Roboto";
+    padding-top: 20px;
+}
+
+
+.header-list-obratn {
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: "Roboto";
+    color: #45536D;
+}
+
+
+.header-list-tel {
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: "Roboto";
+    padding: 0 0 0 20px;
+    color: #45536D;
+}
+
+
+.header-list {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.header-wrapper-kyr {
+    display: flex;
+    max-width:none;
+    margin: 0 auto;
+    padding: 35px 0 0 340px;
+}
+
+
+.list-reset {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+.header-list-obratn-str {
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: "Roboto";
+    color: #7A7A7A;
+}
+
+
+.loyal {
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: "Roboto";
+    padding: 0 0 0 200px;
+    color: #7A7A7A;
+}
+
+
+.gora {
+    padding: 30px 0 0 0;
+    position: absolute;
+     width: 1200px;
+     height: 600px;   
+}
+
+
+.header-fon {
+    border-bottom: 2px solid #7a7a7a;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 660px;    
+}
+
+
+.card-wrapper-sport {
+    padding: 0 35px 0 0;
+}
+
+
+.card-wrapper-raz-spa {
+    padding: 0 0 0 20px;
+}
+
+
+.articles-wrapper-grid {
+display: grid;
+grid-template-columns: repeat(2 , 1fr); /* GRID ДОМАШНИЕ ЗАДАНИЕ--------------------------------------------------------------*/
+gap: 30px; 
+    
+}
+    
+
+.header-otd-kyr {
+    
+    border-bottom: 2px solid #7a7a7a;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 1070px; 
+}
+
+
+.card-content-wrapper {
+    padding: 30px 0 0 0;
+    max-width:800px ;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 130%;
+    color: #1C1C1C;
+    margin: 0;
+}
+
+
+.card-content-wrapper-raz {
+    max-width:800px ;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 130%;
+    color: #BF6024;
+    margin-bottom: 30px; 
+}
+
+
+.select-lug {
+    font-size: 16px;
+    color:  #141414;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+
+.container {
+    display: flex;
+    flex-flow: column;
+    width: 555px;
+    height: 600px;
+    background-image: url('../ImgLug/kyr.jpg');
+    justify-content: flex-end;
+    background-repeat: repeat;
+  }
+
+
+  .top {
+    padding: 10px 75px 0 265px;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto 
+  }
+
+
+  .pro {
+    padding: 50px 0 0 265px;
+    font-size: 28px;
+    font-weight:600;
+    font-family: "Roboto";
+    color: #BF6024;
+  }
+
+
+
+.top-apr {
+    padding: 0 0 0 40px;
+    font-size: 28px;
+    font-weight:500;
+    font-family: "Roboto";
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+
+
+.btn-reset {
+    width: 145px;
+    height: 26px;
+    background-color: #BF6024;
+    border-radius: 20px;
+    margin: 0 0 40px 40px;
+    border-color: #BF6024;
+    border-style: none;
+}
+
+
+.text{
+    margin: 2px 0 0 0;
+    font-size: 14px;
+    font-weight:500;
+    font-family: "Roboto";
+    background: transparent;
+    color: #E5C6B2;
+}
+
+
+.card-wrapper-otel { 
+    width: 470px;
+    height: 270px;
+    border: 1px solid #E4E4E4;
+    background-color: #EAEDF2;
+    padding: 0 0 0 100px;
+}
+
+
+.header-apr {
+    display: flex;
+}
+
+
+.Otel {
+    padding: 10px 750px 0 0;
+    overflow-x: hidden;
+}
+
+
+.card-wrapper-prog-lol {
+    width: 470px;
+    height: 270px;
+    border: 1px solid #E4E4E4;
+    padding: 0 0 0 100px;
+    margin: 50px 0 0 0;
+    background-color: #EAEDF2;
+}
+
+
+.text-otel {
+    font-size: 24px;
+    color:  #141414;
+    max-width: 200px;
+    font-weight: 600;
+    font-family: "Roboto";
+    margin:70px  0 0 0;
+}
+
+
+.text-podbor{
+    font-size: 14px;
+    color:  #BF6024;
+    max-width: 130px;
+    font-weight: 500;
+    font-family: "Roboto";
+    margin: 5px 5px 0 10px;
+}
+
+
+.podbor-str {
+    display: flex;
+    border: 1px solid #BF6024;
+    width: 130px;
+    height: 25px;
+    border-radius: 20px;
+    margin:30px 30px 0 0; 
+}
+
+
+.ramka-str {
+    height: 9px;
+    width: 120px;
+    padding: 8px 35px 0 0;
+}
+
+
+.pro-kyr {
+    padding: 0 0 0 80px;
+}
+
+
+.btn-reset-prosm {
+    width: 120px;
+    height: 26px;
+    border: 1px solid #E5C6B2;
+    border-radius: 20px;
+    margin: 0 0 40px 20px;
+    background: transparent; 
+}
+
+
+.btn-luks{
+    display: flex;
+}
+
+
+.text-posm {
+    font-size: 14px;
+    font-weight:500;
+    font-family: "Roboto";
+    color: #E5C6B2;
+}
+
+
+.text-prog-lol {
+    font-size: 31px;
+    font-weight:600;
+    font-family: "Roboto";
+    margin: 0;
+    color: #141414;
+    padding: 60px 0 0 0;
+}
+
+
+.text-usl-kyr {
+    font-size: 14px;
+    font-weight:400;
+    font-family: "Roboto";
+    width: 230px;
+    color: #141414;
+    padding:  10px 0 10px 0;
+    margin:  0 0 10px 0;  
+}
+
+
+.btn-lol-progra{
+    display: flex;
+}
+
+
+.btn-ycha-btn {
+    width: 120px;
+    height: 26px;
+    background-color: #BF6024;
+    border-radius: 20px;
+    border-color: #BF6024;
+    border-style: none;
+}
+
+
+.btn-podrob-lol {
+    width: 110px;
+    height: 26px;
+    border: 1px solid #BF6024;
+    border-radius: 100px;
+    margin: 0 0 40px 20px; 
+}
+
+
+.text-ycha-btn {
+    font-size: 13px;
+    font-weight:500;
+    font-family: "Roboto";
+    margin:  0 0 0 0;
+    color: #E5C6B2;  
+}
+
+
+.text-podrob-btn {
+    font-size: 13px;
+    font-weight:500;
+    font-family: "Roboto";
+    margin:  0 0 0 0;
+    color: #BF6024;  
+}
+
+
+.lini-podval {
+    border-bottom: 2px solid #7a7a7a;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 70px;
+}
+
+
+.disp-podval {
+    display: flex;
+    padding: 100px 0 0 0;
+}
+
+
+.podval-god{
+    padding: 20px 0 0 0;
+    width: 700px;
+    margin: 0;
+}
+
+
+.text-podval-god{
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+
+.text-podval-oficial{
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+
+.text-podval-politika{
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding-top: 0;
+}
+
+
+.podval-svyaz{
+    padding: 0 0 0 0;
+    width: 700px;
+    margin: 0;
+}
+
+
+.card-obr-svay {
+    padding: 2px 0 0 0px;
+    max-width:200px ;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #424242;
+    margin-bottom: 28px;
+    text-decoration: underline;
+}
+
+
+.rus-text {
+padding: 0 0 0px 0;
+font-size: 15px;
+color: #424242;
+margin: 0;
+letter-spacing: 0.7px;
+}
+
+
+.mos-text {
+    padding: 0 0 50px 0;
+    font-size: 15px;
+    color: #424242; 
+    margin: 0;
+    letter-spacing: 0.7px;
+}
+
+
+.podval-statia{
+    padding: 0 0 0 0;
+    width: 550px;
+    margin: 0;
+}
+
+
+.text-podval-statia{
+    font-size: 15px;
+    letter-spacing: 0.7px;
+}
